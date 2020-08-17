@@ -1,0 +1,41 @@
+
+.Nav_Div{
+float: left;
+padding-left: 12em;
+
+margin-top:3%;
+margin-bottom:1em;
+font-family: Roboto;
+padding-bottom: 2em;
+border-bottom: thin solid #ECECEC;
+}
+.ManageCam{
+    
+color: #2B416C;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 50px;
+padding-left: 6em;
+}
+.Nav_link:link {
+    color: #4657ab;
+    font-size: 1.6rem;
+    line-height: 1.6rem;
+    text-decoration: none;
+  }
+
+  .Nav_link:hover {
+    color: #83A515;
+  }
+  .active {
+    color: #83A515;
+    
+    border-bottom: 5px solid #83A515;
+    
+    
+ }
+ 
+  
+ 

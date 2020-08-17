@@ -1,0 +1,90 @@
+/* body{
+	font-family: Roboto;
+	color: #2B416C;
+}
+.TableDiv {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 10%;
+	margin-top: 5%;
+	border-bottom: thin solid #ECECEC;
+
+	
+}
+span{
+	font-style: italic;
+	font-size: 14px;
+    line-height: 16px;
+}
+th{
+	background: #F1F1F4;
+	
+	padding: 10px;
+	padding-left: 2em;
+}
+
+table{
+	   
+		table-layout: auto;
+		width: 100%;  
+		border-spacing: 0;
+		text-align: left;
+		color: #4657ab;
+		border-bottom: thin solid #D3D3D3;
+		white-space: nowrap; 
+		
+}
+
+
+img{
+	float: left;
+	margin-right: 8%;
+	
+}
+#AppliedTable td{
+	padding: 2em;
+	padding-top: 2.5em;
+	border-bottom: thin solid #ECECEC;
+}
+ */
+ body{
+	font-family: Roboto;
+	color: #2B416C;
+}
+
+ .table-wrapper {
+	border-collapse: collapse;
+	width: 100%;
+	
+ }
+
+ tr{
+	 height:1em;
+	 padding: 1em;
+ }
+
+
+ .table-wrapper td {
+	border-bottom: thin solid #ECECEC;
+	 padding: .5em;
+	 padding-left: 1em;
+ }
+
+ .action-container {
+	 display: flex;
+ }
+
+ .flex {
+	display: flex;
+	align-items: center;
+	padding: 1em;
+ }
+
+ th{
+	background: #F1F1F4;
+	height: 2em;
+	padding: 10px;
+	padding-left: 1em;
+	text-align: left;
+	color: #556789;
+}
